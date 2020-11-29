@@ -1,2 +1,5 @@
-# keeper
-note making app
+# Keeper: Note Making App
+
+Keeper is a simple note taking App build with React, HTML and CSS.
+
+![Alt text](/public/keeper.png?raw=true "keeper")
